@@ -9,5 +9,5 @@ class MycoolappApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+ 
 }
