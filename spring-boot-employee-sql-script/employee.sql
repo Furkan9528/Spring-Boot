@@ -18,7 +18,7 @@ CREATE TABLE `employee` (
 --
 -- Data for table `employee`
 --
-
+ 
 INSERT INTO `employee` VALUES 
 	(1,'Leslie','Andrews','leslie@luv2code.com'),
 	(2,'Emma','Baumgarten','emma@luv2code.com'),
